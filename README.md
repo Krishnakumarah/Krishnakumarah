@@ -1,22 +1,35 @@
 # Hi, I'm Krishnakumara 👋
 
-🎓 I'm a 3rd year Computer Science Engineering student  
-💻 I’m learning to become a software developer  
-🎨 I also explore 3D design using Blender  
+🎓 I'm a Computer Science Engineering student  
+💻 Learning to become a Software Developer  
+🎨 I also explore 3D design using Blender
 
-## 🌱 Currently Learning:
-- HTML, CSS, JavaScript
+## 🌱 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
 - Git & GitHub
-- Python basics
-- Blender (3D modeling)
+- Python
+- Flask
 - Figma
+- Blender
 
+## 🛠️ Skills
 
-## 🚀 Future Goals:
-- Build my first web app
+[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,git,github,vscode,mysql,figma,blender)](https://skillicons.dev)
+
+## 🎬 Other Tools
+
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+
+## 🚀 Future Goals
+
+- Build my first web application
+- Learn Data Analysis
 - Upload my Blender models
-- Contribute to open-source projects
+- Contribute to Open Source projects
 
-## 📫 Connect with me:
-[LinkedIn](linkedin.com/in/k-k-animagic-973841300) |[LinkedIn persnal](linkedin.com/in/krishana-kumara-aa9840300)| [Email](kkanimagic@gmail.com)|[Persnal Email](krishnakumarah714@gmail.com)
+## 📫 Connect with Me
 
+- Email: *(krishnakumarah714@gmail.com)*
