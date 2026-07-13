@@ -4,7 +4,7 @@
 Learning to become a Software Developer  
 I also explore 3D design using Blender
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - HTML
 - CSS
@@ -19,7 +19,7 @@ I also explore 3D design using Blender
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,git,github,vscode,mysql,figma,blender)](https://skillicons.dev)
 
-## 🎬 Other Tools
+##  Other Tools
 
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
