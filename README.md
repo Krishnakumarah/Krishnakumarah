@@ -1,6 +1,6 @@
 # Hi, I'm Krishnakumara 
 
-🎓 I'm a Computer Science Engineering student  
+ I'm a Computer Science Engineering student  
 Learning to become a Software Developer  
 I also explore 3D design using Blender
 
