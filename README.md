@@ -15,7 +15,7 @@ I also explore 3D design using Blender
 - Figma
 - Blender
 
-## 🛠️ Skills
+##  Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,git,github,vscode,mysql,figma,blender)](https://skillicons.dev)
 
