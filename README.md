@@ -1,6 +1,6 @@
 # Hi, I'm Krishnakumara 
 
- I'm a Computer Science Engineering student  
+ I'm a Computer Science Engineering student
 Learning to become a Software Developer  
 I also explore 3D design using Blender
 
@@ -24,7 +24,6 @@ I also explore 3D design using Blender
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 ##  Future Goals
-
 - Build my first web application
 - Learn Data Analysis
 - Upload my Blender models
