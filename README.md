@@ -1,4 +1,4 @@
-# Hi, I'm Krishnakumara
+# Hi, I'm Krishna kumara
 
  I'm a Computer Science Engineering student
 Learning to become a Software Developer  
